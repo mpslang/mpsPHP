@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com/github/mpslang/php/com.github.mpslang.php.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com/github/mpslang/php/runtime/com.github.mpslang.php.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com/github/mpslang/php/sandbox/com.github.mpslang.php.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.github.mpslang.php.build/com.github.mpslang.php.build.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
