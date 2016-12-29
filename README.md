@@ -1,5 +1,5 @@
 # mpsPHP
-PHP for Jetbrains MPS
+PHP for JetBrains MPS
 
 [![Build Status](https://travis-ci.org/mpslang/mpsPHP.svg?branch=master)](https://travis-ci.org/mpslang/mpsPHP)
 [![MPS version](https://img.shields.io/badge/MPS%20version-3.3.5-yellow.svg)]()
